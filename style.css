@@ -6,7 +6,7 @@ body{
     align-items: center;
     height: 100vh;
     font-family: 'Courier New', Courier, monospace;
-    /* background-color: palevioletred; */
+    background-color: palevioletred;
 }
 .password-container{
     background-color: pink;
